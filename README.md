@@ -1,5 +1,4 @@
-# nz-world-travels
-NZ World Trous &amp; Travels Sdn Bhd
+# NZ World Trous &amp; Travels Sdn Bhd
 
 ## Development
 
